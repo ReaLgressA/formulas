@@ -1,0 +1,18 @@
+{
+    "name": "com.realgressa.formulas",
+    "displayName": "Formulas",
+    "version": "1.0.0",
+    "unity": "2020.3",
+    "description": "Simple mathematical formula parser and evaluator for Unity.",
+    "keywords": [
+        "json",
+        "unity",
+        "math",
+        "formula"
+    ],
+    "category": "Unity",
+    "dependencies": {
+        "com.realgressa.jsonparser": "https://github.com/ReaLgressA/json-parser.git?path=/Assets/",
+        "com.unity.test-framework": "1.1.24"
+    }
+}
